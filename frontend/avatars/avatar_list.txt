@@ -1,0 +1,15 @@
+distracted
+enthusiastic
+focusing
+inquisitive
+investigating
+pleased
+relaxed
+sad
+supportive
+surprised
+thoughtful
+unsure
+welcoming
+wondering
+worried
